@@ -1,5 +1,5 @@
 # SmartFireSafetySystem
-A smart fire safety sensor that sends active and passive notifications by monitoring smoke, gas and flame sensors.
+A smart fire safety sensor that sends active and passive notifications via MQTT by monitoring smoke, gas and flame sensors.
 
 ## Contents
 - [Schematic](#schematic)
